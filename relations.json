@@ -1,0 +1,10 @@
+{
+    "0": "reason of\n",
+    "1": "capec has cve\n",
+    "2": "cwe has cve\n",
+    "3": "capec has cwe\n",
+    "4": "has title\n",
+    "5": "has requirement\n",
+    "6": "cwe has capec\n",
+    "7": "cve has cwe"
+}

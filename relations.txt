@@ -1,0 +1,8 @@
+reason of
+capec has cve
+cwe has cve
+capec has cwe
+has title
+has requirement
+cwe has capec
+cve has cwe
